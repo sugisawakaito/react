@@ -1,0 +1,6 @@
+version: "3"
+
+services:
+  react_app: #サービス名
+    image: "react_app:latest"
+
